@@ -1,5 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Colores básicos -->
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- Colores de fondo -->
+    <color name="backgroundColor">#F5F5F5</color> <!-- Fondo general claro -->
+    <color name="buttonBackground">#E0E0E0</color> <!-- Fondo de los botones -->
+    <color name="displayBackground">#BDBDBD</color> <!-- Fondo del panel de la calculadora -->
+
+    <!-- Colores de texto -->
+    <color name="textPrimary">#212121</color> <!-- Texto primario (pantalla) -->
+    <color name="textSecondary">#757575</color> <!-- Texto secundario -->
+    <color name="buttonText">#424242</color> <!-- Texto de los botones -->
+
+    <!-- Colores de acento para operaciones -->
+    <color name="accentPlus">#FF5722</color> <!-- Botón suma -->
+    <color name="accentMinus">#FF9800</color> <!-- Botón resta -->
+    <color name="accentMultiply">#9C27B0</color> <!-- Botón multiplicación -->
+    <color name="accentDivide">#3F51B5</color> <!-- Botón división -->
+    <color name="accentEqual">#4CAF50</color> <!-- Botón igual -->
+
+    <!-- Colores para los botones de números -->
+    <color name="numberButton1">#FFEB3B</color>
+    <color name="numberButton2">#CDDC39</color>
+    <color name="numberButton3">#8BC34A</color>
+    <color name="numberButton4">#FFC107</color>
+    <color name="numberButton5">#FF5722</color>
+    <color name="numberButton6">#FF9800</color>
+    <color name="numberButton7">#9C27B0</color>
+    <color name="numberButton8">#3F51B5</color>
+    <color name="numberButton9">#03A9F4</color>
+    <color name="numberButton0">#00BCD4</color>
+
+    <!-- Colores adicionales para acciones -->
+    <color name="clearButton">#F44336</color> <!-- Botón de borrar -->
+    <color name="decimalButton">#009688</color> <!-- Botón de punto decimal -->
 </resources>
